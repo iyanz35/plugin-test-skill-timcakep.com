@@ -1,2 +1,1 @@
-# plugin-test-skill-timcakep.com
-# plugin-test-skill-timcakep.com
+Custom plugin opt-in yang terhubung dengan ActiveCampaign API
